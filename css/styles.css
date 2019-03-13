@@ -1,0 +1,22 @@
+h1{
+  color: #0001ff;
+  text-align: center;
+}
+h2{
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+p{
+  font-size: 15;
+  font-style: oblique;
+  font-family: sans-serif;
+  line-height: normal;
+  background-color: inherit;
+}
+body{background-image: url("http://images/elephant.jpeg");
+}
+strong{
+  font-style: italic;
+  font-weight: bolder;
+}
